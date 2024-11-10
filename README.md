@@ -41,6 +41,9 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
+# to restart the docker database server
+$ npm run db:dev:restart
+
 # production mode
 $ npm run start:prod
 ```
